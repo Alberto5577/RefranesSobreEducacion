@@ -36,3 +36,6 @@ p.f {
     border-width: 10px 40px 20px;
     border-style: dotted solid dashed double;
 }
+footer {
+    size: 12px;
+}
